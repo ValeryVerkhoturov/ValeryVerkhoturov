@@ -1,20 +1,8 @@
-Account age: **1** years
+Joined Github **1** years ago.
 
-Pushed **300** commits
+Since then I pushed **301** commits, opened **17** issues, submitted **9** pull requests, ow **20** personal projects and contributed to **4** public repositories.
 
-Opened **17** issues
-
-Submitted **9** pull requests
-
-Reviewed **{{ CODE_REVIEWS }}** pull requests
-
-Received **0** stars
-
-Own **20** repositories
-
-Contributed to **4** public repositories
-
-Most used languages across my repositories:
+Most used languages across my projects:
 
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B131%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B129.4%25)
