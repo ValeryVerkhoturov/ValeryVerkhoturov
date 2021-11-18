@@ -1,4 +1,4 @@
-# Peace 👋 I'm Valery
+# Peace 👋 I'm Valery ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
