@@ -1,6 +1,8 @@
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+# Peace 👋 I'm Valery
 
-Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, ow **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Joined Github **{{ ACCOUNT_AGE }}** years ago. <img src="https://giphy.com/embed/PoHs1Ne8rcMuZRJted" width="30">
+
+Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, own **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 Most used languages across my projects:
 
