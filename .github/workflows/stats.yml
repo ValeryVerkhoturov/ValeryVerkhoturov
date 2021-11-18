@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 */6 * * *' # every 12 hours
+    - cron: '0 */12 * * *' # every 12 hours
   push:
     branches:
       - master
@@ -15,7 +15,7 @@ jobs:
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v1
       with:
-        token: ${{ README.README }}
+        token: ${{ secrets.GH_STATS }}
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
