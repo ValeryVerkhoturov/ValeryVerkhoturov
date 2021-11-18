@@ -1,6 +1,6 @@
 # Peace 👋 I'm Valery
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago. <img src="https://media.giphy.com/media/PoHs1Ne8rcMuZRJted/giphy.gif" width="30">
+Joined Github **{{ ACCOUNT_AGE }}** years ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, own **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
