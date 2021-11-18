@@ -1,8 +1,10 @@
-# Peace 👋 I'm Valery ![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat-square)
+# Peace 👋 I'm Valery
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, own **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+
+![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat-square)
 
 Most used languages across my projects:
 
