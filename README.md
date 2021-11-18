@@ -1,8 +1,8 @@
 # Peace 👋 I'm Valery
 
-Joined Github **1** years ago. <img src="https://giphy.com/embed/PoHs1Ne8rcMuZRJted" width="30">
+Joined Github **1** years ago. <img src="https://giphy.com/media/PoHs1Ne8rcMuZRJted/giphy.gif" width="30">
 
-Since then I pushed **302** commits, opened **17** issues, submitted **9** pull requests, own **20** personal projects and contributed to **4** public repositories.
+Since then I pushed **303** commits, opened **17** issues, submitted **9** pull requests, own **20** personal projects and contributed to **4** public repositories.
 
 Most used languages across my projects:
 
