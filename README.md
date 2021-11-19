@@ -2,9 +2,9 @@
 
 Joined Github **1** years ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
-Since then I pushed **309** commits, opened **17** issues, submitted **9** pull requests, own **20** personal projects and contributed to **4** public repositories.
+Since then I pushed **310** commits, opened **17** issues, submitted **9** pull requests, own **20** personal projects and contributed to **4** public repositories.
 
-![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=plastic)
 
 Most used languages across my projects:
 
