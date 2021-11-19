@@ -1,8 +1,16 @@
 # Peace be upon you👋 
 
-I'm Valery. Joined Github **1** years ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+I'm Valery. Joined Github **1** year ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
-Since then I pushed **312** commits, opened **17** issues, submitted **9** pull requests, created **20** personal projects and contributed to **4** public repositories.
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+Since then I
+
+- pushed **313** commits
+- opened **17** issues
+- submitted **9** pull requests
+- created **20** personal projects 
+- contributed to **4** public repositories
 
 ![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=plastic)
 
