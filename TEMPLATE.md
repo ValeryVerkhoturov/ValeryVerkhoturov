@@ -4,7 +4,7 @@ Joined Github **{{ ACCOUNT_AGE }}** years ago. <img src="https://media.giphy.com
 
 Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, own **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=plastic)
 
 Most used languages across my projects:
 
