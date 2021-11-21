@@ -6,7 +6,7 @@ I'm Valery. Joined Github **1** year ago. <img src="https://media.giphy.com/medi
 
 Since then I
 
-- pushed **319** commits
+- pushed **321** commits
 - opened **17** issues
 - submitted **9** pull requests
 - created **20** personal projects 
@@ -16,8 +16,8 @@ Since then I
 
 Most used languages across my projects:
 
-![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B130.6%25)
-![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B130.5%25)
+![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B130.7%25)
+![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B130.4%25)
 ![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B127.1%25)
 ![Tcl](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B110.8%25)
 ![Kotlin](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B10.4%25)
