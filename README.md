@@ -1,12 +1,12 @@
 # Peace be upon you👋 
 
-I'm Valery. Joined Github **1** year ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+I'm Valery, joined Github **1** year ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 Since then I
 
-- pushed **347** commits
+- pushed **348** commits
 - opened **17** issues
 - submitted **9** pull requests
 - created **21** personal projects 
