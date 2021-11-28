@@ -1,6 +1,6 @@
 # Peace be upon you👋 
 
-I'm Valery. Joined Github **{{ ACCOUNT_AGE }}** year ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+I'm Valery, joined Github **{{ ACCOUNT_AGE }}** year ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
