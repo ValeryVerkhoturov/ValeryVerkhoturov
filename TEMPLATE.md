@@ -20,4 +20,4 @@ Most used languages across my projects:
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
-Contact me on [<img src="https://img.icons8.com/color/100/000000/telegram-app--v1.png" width="15"/>Telegram](https://t.me/valeryverkhoturov)
+Contact me on [<img src="https://img.icons8.com/color/100/000000/telegram-app--v1.png" width="15"/>Telegram](https://t.me/ValerianaOfficinalis)
