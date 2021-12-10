@@ -6,10 +6,10 @@ I'm Valery, joined Github **1** year ago. <img src="https://media.giphy.com/medi
 
 Since then I
 
-- pushed **380** commits
+- pushed **385** commits
 - opened **17** issues
 - submitted **9** pull requests
-- created **22** personal projects 
+- created **24** personal projects 
 - contributed to **4** public repositories
 
 ![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat)
