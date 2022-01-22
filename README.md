@@ -8,9 +8,9 @@ Since then I
 
 - pushed **513** commits;
 - opened **23** issues;
-- submitted **21** pull requests;
+- submitted **22** pull requests;
 - created **32** personal projects;
-- contributed to **6** public repositories.
+- contributed to **7** public repositories.
 
 ![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat)
 
