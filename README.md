@@ -6,7 +6,7 @@ I'm Valery, joined Github **1** year ago. <img src="https://media.giphy.com/medi
 
 Since then I
 
-- pushed **514** commits;
+- pushed **515** commits;
 - opened **23** issues;
 - submitted **22** pull requests;
 - created **32** personal projects;
@@ -25,4 +25,4 @@ Most used languages across my projects:
 ![TypeScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B11%25)
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.5%25)
 
-Contact me on [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/>Telegram](https://t.me/ValerianaOfficinalis).
+Contact me on [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis).
