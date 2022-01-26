@@ -8,7 +8,7 @@ Since then I
 
 - pushed **518** commits;
 - opened **23** issues;
-- submitted **23** pull requests;
+- submitted **24** pull requests;
 - created **32** personal projects;
 - contributed to **7** public repositories.
 
