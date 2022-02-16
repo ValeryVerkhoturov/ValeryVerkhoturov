@@ -2,13 +2,13 @@
 
 I'm Valery, joined Github **1** year ago. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/70258211/154342098-89e13aef-bf85-4a1e-884a-25f865bc12a6.svg" />
 
 Since then I
 
-- pushed **545** commits;
+- pushed **547** commits;
 - opened **39** issues;
-- submitted **26** pull requests;
+- submitted **27** pull requests;
 - created **34** personal projects;
 - contributed to **7** public repositories.
 
