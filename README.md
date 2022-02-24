@@ -6,23 +6,23 @@ I'm Valery, joined Github **1** year ago. <img src="https://media.giphy.com/medi
 
 Since then I
 
-- pushed **558** commits;
+- pushed **560** commits;
 - opened **39** issues;
 - submitted **27** pull requests;
-- created **36** personal projects;
+- created **37** personal projects;
 - contributed to **7** public repositories.
 
 ![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat)
 
 Most used languages across my projects:
 
-![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B137.1%25)
-![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B123.1%25)
-![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B116.2%25)
-![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B114.4%25)
-![Tcl](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B15.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.1%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B10.8%25)
-![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.2%25)
+![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B133.7%25)
+![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B130.2%25)
+![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B114.7%25)
+![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B113%25)
+![Tcl](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B15.2%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B10.7%25)
+![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.1%25)
 
 Contact me on [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis).
