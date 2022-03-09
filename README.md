@@ -7,7 +7,7 @@ I'm Valery, joined Github **1** year ago. <img src="https://media.giphy.com/medi
 Since then I
 
 - pushed **569** commits;
-- opened **41** issues;
+- opened **42** issues;
 - submitted **30** pull requests;
 - created **38** personal projects;
 - contributed to **7** public repositories.
