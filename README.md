@@ -6,7 +6,7 @@ I'm Valery, joined Github **1** year ago. <img src="https://media.giphy.com/medi
 
 Since then I
 
-- pushed **598** commits;
+- pushed **599** commits;
 - opened **43** issues;
 - submitted **34** pull requests;
 - created **43** personal projects;
@@ -16,9 +16,9 @@ Since then I
 
 Most used languages across my projects:
 
-![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B134.2%25)
-![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B133.9%25)
-![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B113%25)
+![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B134.3%25)
+![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B133.8%25)
+![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B112.9%25)
 ![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B111.5%25)
 ![Tcl](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B14.6%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.9%25)
