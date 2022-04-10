@@ -6,13 +6,11 @@ I'm Valery, joined Github **1** year ago. <img src="https://media.giphy.com/medi
 
 Since then I
 
-- pushed **615** commits;
+- pushed **616** commits;
 - opened **43** issues;
 - submitted **34** pull requests;
 - created **45** personal projects;
 - contributed to **8** public repositories.
-
-![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat)
 
 Most used languages across my projects:
 
@@ -25,4 +23,4 @@ Most used languages across my projects:
 ![TypeScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B10.6%25)
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.9%25)
 
-Contact me on [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis).
+Contact me on [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis). <p align="right">![](https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat)</p>
