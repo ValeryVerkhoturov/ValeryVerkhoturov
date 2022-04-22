@@ -7,10 +7,10 @@ I'm Valery, joined Github **1** year ago. <img src="https://media.giphy.com/medi
 Since then I
 
 - pushed **628** commits;
-- opened **44** issues;
+- opened **46** issues;
 - submitted **34** pull requests;
 - created **46** personal projects;
-- contributed to **8** public repositories.
+- contributed to **10** public repositories.
 
 Most used languages across my projects:
 
