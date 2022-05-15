@@ -7,7 +7,7 @@ I'm Valery.
 - **679** commits;
 - **46** issues;
 - **37** pull requests;
-- **54** personal projects;
+- **55** personal projects;
 - **10** public repositories contributed to.
 
 Most used languages across my projects:
