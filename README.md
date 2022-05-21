@@ -4,11 +4,11 @@ I'm Valery.
 
 <img width="30%" align="right" alt="Rammstein - Rammstein" src="https://user-images.githubusercontent.com/70258211/167283043-06da0070-928d-4bee-a993-cf922f9a0bf7.jpeg" /><img width="30%" align="right" alt="Rammstein collage" src="https://user-images.githubusercontent.com/70258211/167283117-8a96cca3-92b8-4016-84dc-e32973bd4175.jpeg" />
 
-- **685** commits;
-- **47** issues;
+- **693** commits;
+- **48** issues;
 - **37** pull requests;
 - **56** personal projects;
-- **9** public repositories contributed to.
+- **10** public repositories contributed to.
 
 Most used languages across my projects:
 
