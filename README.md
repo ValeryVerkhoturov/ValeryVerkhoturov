@@ -4,17 +4,17 @@ I'm Valery.
 
 <img width="30%" align="right" alt="Rammstein - Rammstein" src="https://user-images.githubusercontent.com/70258211/167283043-06da0070-928d-4bee-a993-cf922f9a0bf7.jpeg" /><img width="30%" align="right" alt="Rammstein collage" src="https://user-images.githubusercontent.com/70258211/167283117-8a96cca3-92b8-4016-84dc-e32973bd4175.jpeg" />
 
-- **695** commits;
+- **700** commits;
 - **48** issues;
 - **37** pull requests;
-- **57** personal projects;
+- **58** personal projects;
 - **10** public repositories contributed to.
 
 Most used languages across my projects:
 
-1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B149%25)
-1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B130.5%25)
-1. ![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B18.2%25)
+1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B149.4%25)
+1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B130.3%25)
+1. ![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B18.1%25)
 1. ![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B17.7%25)
 1. ![Tcl](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B12.7%25)
 1. ![JavaScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.5%25)
