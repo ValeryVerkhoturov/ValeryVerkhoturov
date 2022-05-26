@@ -1,8 +1,8 @@
-# Peace be upon you👋 
+<img width="40%" align="right" alt="Poster" src="https://user-images.githubusercontent.com/70258211/170505202-ad25c1c3-5026-4aeb-9502-586bd3ec03d5.jpeg" />
 
-I'm Valery.
+# Resume
 
-<img width="30%" align="right" alt="Rammstein - Rammstein" src="https://user-images.githubusercontent.com/70258211/167283043-06da0070-928d-4bee-a993-cf922f9a0bf7.jpeg" /><img width="30%" align="right" alt="Rammstein collage" src="https://user-images.githubusercontent.com/70258211/167283117-8a96cca3-92b8-4016-84dc-e32973bd4175.jpeg" />
+I'm Valery, my GH stats:
 
 - **{{ COMMITS }}** commits;
 - **{{ ISSUES }}** issues;
