@@ -18,7 +18,7 @@ Most used languages across my projects:
 1. ![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B17.4%25)
 1. ![Tcl](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B12.6%25)
 1. ![JavaScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.5%25)
-1. ![TypeScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B10.3%25)
+1. ![TypeScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B10.3%25)
 1. ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.5%25)
 
 Reach me [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis). <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
