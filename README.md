@@ -4,7 +4,7 @@
 
 I'm Valery, my GH stats:
 
-- **736** commits;
+- **739** commits;
 - **48** issues;
 - **37** pull requests;
 - **61** personal projects;
@@ -12,7 +12,7 @@ I'm Valery, my GH stats:
 
 Most used languages across my projects:
 
-1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B151.7%25)
+1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B151.6%25)
 1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B129.2%25)
 1. ![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B17.7%25)
 1. ![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B17.2%25)
