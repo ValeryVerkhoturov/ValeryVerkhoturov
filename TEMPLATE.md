@@ -2,7 +2,7 @@
 
 # Resume
 
-My name is Valery, I am experienced in:
+My name is Valery, I am experienced in technologies:
 
 {{ LANGUAGE_TEMPLATE_START:max=5 }}
 1. ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
