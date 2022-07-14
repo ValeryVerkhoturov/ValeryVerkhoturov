@@ -2,7 +2,7 @@
 
 # Resume
 
-My name is Valery, I am experienced in:
+My name is Valery, I am experienced in technologies:
 
 1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B150.2%25)
 1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B126.5%25)
@@ -12,7 +12,7 @@ My name is Valery, I am experienced in:
 
 I have GitHub activity:
 
-- **769** commits,
+- **770** commits,
 - **48** issues,
 - **37** pull requests,
 - **65** personal projects,
