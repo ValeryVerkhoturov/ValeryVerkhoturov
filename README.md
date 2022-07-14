@@ -2,15 +2,7 @@
 
 # Resume
 
-I'm Valery, my GH stats:
-
-- **767** commits;
-- **48** issues;
-- **37** pull requests;
-- **65** personal projects;
-- **10** public repositories contributed to.
-
-Most used languages across my projects:
+My name is Valery, I am experienced in:
 
 1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B150.2%25)
 1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B126.5%25)
@@ -20,5 +12,13 @@ Most used languages across my projects:
 1. ![Tcl](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B12.3%25)
 1. ![JavaScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.5%25)
 1. ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.9%25)
+
+I have GitHub activity:
+
+- **768** commits,
+- **48** issues,
+- **37** pull requests,
+- **65** personal projects,
+- **10** public repositories contributed to,
 
 Reach me [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis). <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
