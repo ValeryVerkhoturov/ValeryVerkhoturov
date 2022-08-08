@@ -1,8 +1,10 @@
 <img width="40%" align="right" alt="Poster" src="https://user-images.githubusercontent.com/70258211/170505202-ad25c1c3-5026-4aeb-9502-586bd3ec03d5.jpeg" />
 
-# Resume
+# Résumé
 
-My name is Valery, I am experienced in technologies:
+My name is Valery.
+
+## Technologies
 
 1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B157.5%25)
 1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B122.6%25)
@@ -10,12 +12,13 @@ My name is Valery, I am experienced in technologies:
 1. ![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B15.6%25)
 1. ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B18.1%25)
 
-I have GitHub activity:
+## Activity
 
-- **800** commits,
+- **801** commits,
 - **48** issues,
-- **40** pull requests,
+- **41** pull requests,
 - **67** personal projects,
 - **11** public repositories contributed to.
 
-✉ Reach me in [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis). <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
+## Contact
+[<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis) <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
