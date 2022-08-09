@@ -16,9 +16,9 @@ My name is Valery.
 
 - **801** commits,
 - **48** issues,
-- **41** pull requests,
+- **42** pull requests,
 - **67** personal projects,
-- **11** public repositories contributed to.
+- **12** public repositories contributed to.
 
 ## Contact
 [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis) <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
