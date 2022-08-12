@@ -2,8 +2,6 @@
 
 # Résumé
 
-My name is Valery.
-
 ## Technologies
 
 {{ LANGUAGE_TEMPLATE_START:max=5 }}
