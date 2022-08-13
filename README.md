@@ -2,11 +2,9 @@
 
 # Résumé
 
-My name is Valery.
-
 ## Technologies
 
-1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B157.6%25)
+1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B157.5%25)
 1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B122.6%25)
 1. ![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B15.9%25)
 1. ![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B15.6%25)
@@ -14,7 +12,7 @@ My name is Valery.
 
 ## Activity
 
-- **806** commits,
+- **811** commits,
 - **48** issues,
 - **42** pull requests,
 - **67** personal projects,
