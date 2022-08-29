@@ -1,4 +1,4 @@
-<img width="40%" align="right" alt="Poster" src="https://user-images.githubusercontent.com/70258211/170505202-ad25c1c3-5026-4aeb-9502-586bd3ec03d5.jpeg" />
+<img width="40%" align="right" alt="Poster" src="https://user-images.githubusercontent.com/70258211/187185846-fd3bded8-2076-41ed-a153-01adf095d1f3.jpeg" />
 
 # Résumé
 
@@ -12,7 +12,7 @@
 
 ## Activity
 
-- **840** commits,
+- **841** commits,
 - **48** issues,
 - **47** pull requests,
 - **68** personal projects,
