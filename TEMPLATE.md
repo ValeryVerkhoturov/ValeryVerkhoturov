@@ -1,4 +1,4 @@
-<img width="50%" align="right" alt="Poster" src="https://user-images.githubusercontent.com/70258211/187185846-fd3bded8-2076-41ed-a153-01adf095d1f3.jpeg" />
+<img width="50%" align="right" alt="Poster" src="https://user-images.githubusercontent.com/70258211/191231654-8d8d3483-0a60-426f-b342-ee60de97540c.jpeg" />
 
 # Résumé
 
