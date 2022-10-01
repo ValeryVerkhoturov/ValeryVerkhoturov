@@ -4,7 +4,7 @@
 
 ## Technologies
 
-1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B138.2%25)
+1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B138.3%25)
 1. ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B125.9%25)
 1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B113.9%25)
 1. ![HTML](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B112.4%25)
@@ -15,7 +15,7 @@
 
 ## Activity
 
-- **888** commits,
+- **890** commits,
 - **49** issues,
 - **47** pull requests,
 - **77** personal projects,
