@@ -4,8 +4,8 @@
 
 ## Technologies
 
-1. ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B141.4%25)
-1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B130.4%25)
+1. ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B141.6%25)
+1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B130.3%25)
 1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B110.9%25)
 1. ![HTML](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B19.7%25)
 1. ![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B12.9%25)
@@ -15,7 +15,7 @@
 
 ## Activity
 
-- **901** commits,
+- **902** commits,
 - **49** issues,
 - **47** pull requests,
 - **79** personal projects,
