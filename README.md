@@ -4,14 +4,14 @@
 
 ## Technologies
 
-1. ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B145.7%25)
-1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B128.3%25)
-1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B110.1%25)
-1. ![HTML](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B18.9%25)
-1. ![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B12.7%25)
-1. ![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B12.5%25)
+1. ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B151.4%25)
+1. ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B125.3%25)
+1. ![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B19%25)
+1. ![HTML](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B18%25)
+1. ![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B12.4%25)
+1. ![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B12.2%25)
 1. ![Tcl](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B10.8%25)
-1. ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.6%25)
+1. ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.5%25)
 
 ## Activity
 
