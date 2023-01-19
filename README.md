@@ -17,9 +17,9 @@
 
 - **988** commits,
 - **49** issues,
-- **59** pull requests,
+- **58** pull requests,
 - **88** personal projects,
-- **20** public repositories contributed to.
+- **19** public repositories contributed to.
 
 ## Contact
 [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis) <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
