@@ -17,7 +17,7 @@
 
 - **1144** commits,
 - **51** issues,
-- **87** pull requests,
+- **88** pull requests,
 - **92** personal projects,
 - **23** public repositories contributed to.
 
