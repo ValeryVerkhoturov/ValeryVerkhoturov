@@ -1,6 +1,6 @@
-<img width="50%" align="right" alt="Poster" src="https://user-images.githubusercontent.com/70258211/191231654-8d8d3483-0a60-426f-b342-ee60de97540c.jpeg" />
-
 # Résumé
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## Technologies
 
@@ -15,7 +15,7 @@
 
 ## Activity
 
-- **1324** commits,
+- **1329** commits,
 - **52** issues,
 - **136** pull requests,
 - **93** personal projects,
