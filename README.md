@@ -1,5 +1,3 @@
-# Résumé
-
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## Technologies
@@ -15,7 +13,7 @@
 
 ## Activity
 
-- **1373** commits,
+- **1374** commits,
 - **53** issues,
 - **138** pull requests,
 - **96** personal projects,
