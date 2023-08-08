@@ -1,5 +1,10 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+## Articles
+
+* [Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии](https://habr.com/ru/articles/753350/)
+
+
 ## Tech stack
 
 * ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -20,9 +25,9 @@
 * ![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B11.5%25)
 * ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.3%25)
 
-- **1588** commits,
+- **1591** commits,
 - **55** issues,
-- **161** pull requests,
+- **162** pull requests,
 - **110** personal projects,
 - **24** public repositories contributed to.
 
