@@ -18,7 +18,7 @@
 
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B136.2%25)
 <br>
-![TypeScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B124.3%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B124.2%25)
 <br>
 ![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B119.6%25)
 <br>
@@ -33,7 +33,7 @@
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.3%25)
 <br>
 
-**1593** commits,
+**1596** commits,
 
 **55** issues,
 
