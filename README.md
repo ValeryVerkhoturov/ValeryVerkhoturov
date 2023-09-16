@@ -4,6 +4,10 @@
 
 * [Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии](https://habr.com/ru/articles/753350/)
 
+## Certificates
+
+* [AL-1702 «Администрирование ОС Astra Linux Special Edition 1.7»](/certificates/AL_1702.pdf)
+* [AL-1703 «Расширенное администрирование ОС Astra Linux Special Edition 1.7»](/certificates/AL_1703.pdf)
 
 ## Tech stack
 
@@ -33,7 +37,7 @@
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.6%25)
 <br>
 
-**1658** commits,
+**1659** commits,
 
 **56** issues,
 
