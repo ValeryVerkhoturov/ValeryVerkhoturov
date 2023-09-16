@@ -4,6 +4,10 @@
 
 * [Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии](https://habr.com/ru/articles/753350/)
 
+## Certificates
+
+* [AL-1702 «Администрирование ОС Astra Linux Special Edition 1.7»](/certificates/AL_1702.pdf)
+* [AL-1703 «Расширенное администрирование ОС Astra Linux Special Edition 1.7»](/certificates/AL_1703.pdf)
 
 ## Tech stack
 
