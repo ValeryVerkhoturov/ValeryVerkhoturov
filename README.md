@@ -43,7 +43,7 @@
 
 **364** pull requests,
 
-**110** personal projects,
+**109** personal projects,
 
 **25** public repositories contributed to.
 
