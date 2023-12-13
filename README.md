@@ -41,7 +41,7 @@
 
 **56** issues,
 
-**375** pull requests,
+**377** pull requests,
 
 **109** personal projects,
 
