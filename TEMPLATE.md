@@ -2,6 +2,7 @@
 
 ## Articles
 
+* [Retrieval-Augmented Generation в техподдержке на основе YandexGPT](https://habr.com/ru/articles/784298/)
 * [Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии](https://habr.com/ru/articles/753350/)
 
 ## Certificates
