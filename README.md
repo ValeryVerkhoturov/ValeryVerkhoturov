@@ -2,8 +2,8 @@
 
 ## Articles
 
-* [Retrieval-Augmented Generation в техподдержке на основе YandexGPT](https://habr.com/ru/articles/784298/)
-* [Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии](https://habr.com/ru/articles/753350/)
+* Retrieval-Augmented Generation in technical support service based on YandexGPT [english](https://medium.com/@valery.verkhoturov1505/retrieval-augmented-generation-in-technical-support-based-on-yandexgpt-c5c69f3b13bf) | [russian](https://habr.com/ru/articles/784298/)
+* Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии [russian](https://habr.com/ru/articles/753350/)
 
 ## Certificates
 
@@ -38,15 +38,15 @@
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.6%25)
 <br>
 
-**1826** commits,
+**1856** commits,
 
 **56** issues,
 
-**378** pull requests,
+**403** pull requests,
 
-**109** personal projects,
+**111** personal projects,
 
-**25** public repositories contributed to.
+**26** public repositories contributed to.
 
 ## Contact
 [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis) <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
