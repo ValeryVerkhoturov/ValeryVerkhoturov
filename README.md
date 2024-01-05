@@ -2,7 +2,7 @@
 
 ## Articles
 
-* Retrieval-Augmented Generation in technical support service based on YandexGPT [english](https://medium.com/@valery.verkhoturov1505/retrieval-augmented-generation-in-technical-support-based-on-yandexgpt-c5c69f3b13bf) | [russian](https://habr.com/ru/articles/784298/)
+* Retrieval-Augmented Generation in technical support service based on ChatGPT, YandexGPT [english](https://medium.com/@valery.verkhoturov1505/retrieval-augmented-generation-in-technical-support-based-on-yandexgpt-c5c69f3b13bf) | [russian](https://habr.com/ru/articles/784298/)
 * Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии [russian](https://habr.com/ru/articles/753350/)
 
 ## Certificates
@@ -38,7 +38,7 @@
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.6%25)
 <br>
 
-**1858** commits,
+**1859** commits,
 
 **56** issues,
 
