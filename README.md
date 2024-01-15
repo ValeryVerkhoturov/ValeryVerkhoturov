@@ -2,6 +2,7 @@
 
 ## Articles
 
+* Авторизация в CLI приложении с помощью OAuth [russian](https://habr.com/ru/articles/786320/)
 * Retrieval-Augmented Generation in technical support service based on ChatGPT, YandexGPT [english](https://medium.com/@valery.verkhoturov1505/retrieval-augmented-generation-in-technical-support-based-on-yandexgpt-c5c69f3b13bf) | [russian](https://habr.com/ru/articles/784298/)
 * Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии [russian](https://habr.com/ru/articles/753350/)
 
@@ -38,11 +39,11 @@
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.6%25)
 <br>
 
-**1888** commits,
+**1893** commits,
 
 **56** issues,
 
-**414** pull requests,
+**415** pull requests,
 
 **114** personal projects,
 
