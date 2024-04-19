@@ -46,7 +46,7 @@
 
 **123** personal projects,
 
-**17** public repositories contributed to.
+**16** public repositories contributed to.
 
 ## Contact
 [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis) <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
