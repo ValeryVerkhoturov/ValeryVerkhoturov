@@ -38,7 +38,7 @@
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.6%25)
 <br>
 
-**1882** commits,
+**1896** commits,
 
 **56** issues,
 
@@ -46,7 +46,7 @@
 
 **123** personal projects,
 
-**16** public repositories contributed to.
+**18** public repositories contributed to.
 
 ## Contact
 [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis) <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
