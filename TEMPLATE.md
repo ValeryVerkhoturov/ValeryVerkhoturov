@@ -36,5 +36,8 @@
 
 **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories contributed to.
 
+## LeetCode
+![](https://leetcard.jacoblin.cool/ValeryVerkhoturov?theme=dark)
+
 ## Contact
 [<img align="center" width="15px" src="https://cdn.svarun.dev/social/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis) <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
