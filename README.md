@@ -38,7 +38,7 @@
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.6%25)
 <br>
 
-**2259** commits,
+**2260** commits,
 
 **56** issues,
 
@@ -46,7 +46,7 @@
 
 **124** personal projects,
 
-**17** public repositories contributed to.
+**16** public repositories contributed to.
 
 ## LeetCode
 [<img src="https://leetcard.jacoblin.cool/ValeryVerkhoturov?theme=dark">](https://leetcode.com/u/ValeryVerkhoturov/)
