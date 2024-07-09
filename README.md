@@ -46,7 +46,7 @@
 
 **124** personal projects,
 
-**15** public repositories contributed to.
+**14** public repositories contributed to.
 
 ## LeetCode
 [<img src="https://leetcard.jacoblin.cool/ValeryVerkhoturov?theme=dark">](https://leetcode.com/u/ValeryVerkhoturov/)
