@@ -6,7 +6,6 @@
 
 ## Certificates
 
-* Диплом о профессиональной переподготовке «Программные средства решения прикладных задач искусственного интеллекта» [pdf](/certificates/additional_diploma.pdf)
 * AL-1702 «Администрирование ОС Astra Linux Special Edition 1.7» [pdf](/certificates/AL_1702.pdf)
 * AL-1703 «Расширенное администрирование ОС Astra Linux Special Edition 1.7» [pdf](/certificates/AL_1703.pdf)
 
@@ -39,7 +38,7 @@
 ![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.6%25)
 <br>
 
-**2463** commits,
+**2464** commits,
 
 **56** issues,
 
