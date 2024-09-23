@@ -41,13 +41,13 @@
 
 **2765** commits,
 
-**57** issues,
+**58** issues,
 
 **167** pull requests,
 
 **127** personal projects,
 
-**11** public repositories contributed to.
+**12** public repositories contributed to.
 
 ## LeetCode
 [<img src="https://leetcard.jacoblin.cool/ValeryVerkhoturov?theme=dark">](https://leetcode.com/u/ValeryVerkhoturov/)
