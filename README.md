@@ -20,35 +20,6 @@
 * ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 * ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## GH Activity
-
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B137.9%25)
-<br>
-![TypeScript](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B121.9%25)
-<br>
-![TeX](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B120.2%25)
-<br>
-![Java](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B16.6%25)
-<br>
-![HTML](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16%25)
-<br>
-![Python](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B11.7%25)
-<br>
-![C#](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B11.6%25)
-<br>
-![Other](https://img.shields.io/static/v1?style=flat&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.6%25)
-<br>
-
-**2768** commits,
-
-**58** issues,
-
-**167** pull requests,
-
-**127** personal projects,
-
-**12** public repositories contributed to.
-
 ## LeetCode
 [<img src="https://leetcard.jacoblin.cool/ValeryVerkhoturov?theme=dark">](https://leetcode.com/u/ValeryVerkhoturov/)
 
