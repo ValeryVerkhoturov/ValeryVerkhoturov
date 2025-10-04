@@ -4,12 +4,6 @@
 * Retrieval-Augmented Generation in technical support service based on ChatGPT, YandexGPT [english](https://medium.com/@valery.verkhoturov1505/retrieval-augmented-generation-in-technical-support-based-on-yandexgpt-c5c69f3b13bf) | [russian](https://habr.com/ru/articles/784298/)
 * Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии [russian](https://habr.com/ru/articles/753350/)
 
-## Certificates
-
-* Диплом о профессиональной переподготовке «Программные средства решения прикладных задач искусственного интеллекта» [pdf](/certificates/additional_diploma.pdf)
-* AL-1702 «Администрирование ОС Astra Linux Special Edition 1.7» [pdf](/certificates/AL_1702.pdf)
-* AL-1703 «Расширенное администрирование ОС Astra Linux Special Edition 1.7» [pdf](/certificates/AL_1703.pdf)
-
 ## Tech Stack
 
 * ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
