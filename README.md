@@ -15,7 +15,9 @@
 * ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## LeetCode
-[<img src="https://leetcard.jacoblin.cool/ValeryVerkhoturov?theme=dark">](https://leetcode.com/u/ValeryVerkhoturov/)
+<a href="https://leetcode.com/u/ValeryVerkhoturov/" target="_blank" rel="noopener noreferrer">
+<img src="https://leetcard.jacoblin.cool/ValeryVerkhoturov?theme=dark">
+</a>
 
 ## Contact
 [<img align="center" width="15px" src="https://raw.githubusercontent.com/ValeryVerkhoturov/ValeryVerkhoturov/refs/heads/main/static/telegram.svg"/> Telegram](https://t.me/ValerianaOfficinalis) <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=ValeryVerkhoturov&style=flat" />
